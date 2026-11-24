@@ -1,11 +1,11 @@
 {
-  "id": "./TELURAID_V8_7_AURORA_ARCHIVE_FIT.html",
+  "id": "./",
   "name": "TELURAID — Aurora Glass",
   "short_name": "TELURAID",
   "description": "Personal command center for Focus, Health, Study, XP and daily archive.",
   "lang": "fa",
   "dir": "rtl",
-  "start_url": "./TELURAID_V8_7_AURORA_ARCHIVE_FIT.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
